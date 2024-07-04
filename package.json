@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "npx tailwindcss -i ./template/styles/global.css -o ./public/global.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.5",
+    "flowbite": "^2.2.0"  }
+}
